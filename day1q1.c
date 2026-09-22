@@ -1,4 +1,4 @@
-/*Q1: Write a prog input two numbers and display their sum.*/
+/*Q1: Write a program to input two numbers and display their sum.*/
 #include <stdio.h>
 void main(){
     int a , b  , sum;
@@ -6,3 +6,4 @@ void main(){
     sum = a + b;
     printf("%d",sum);
 }
+    
